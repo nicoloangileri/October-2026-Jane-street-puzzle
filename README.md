@@ -69,8 +69,8 @@ above: cell (3,3), minimum size 37.
 Uniqueness is not proven. Ten further annealing runs reached no zero-error
 partition at all, so they say little either way.
 
-Seed 6 reaches zero error and prints the grid above, in about five minutes on an
-Apple laptop. Other seeds may not converge.
+Seed 6 reaches zero error and prints the grid above, in about five minutes on a
+Mac. Other seeds may not converge.
 
 ## Outcome
 
